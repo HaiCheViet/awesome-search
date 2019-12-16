@@ -1,6 +1,6 @@
 # Awesome-search
 
-I am creating e-commerce search. Below listed what inspires me. Grouped by topic.
+I am creating awesome search. Below listed what inspires me. Grouped by topic.
 
 ## General, fun, philosophy
 
